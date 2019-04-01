@@ -1,0 +1,11 @@
+/home/viviane/Área de Trabalho/poo/obj/Debug/netcoreapp2.2/poo.csprojAssemblyReference.cache
+/home/viviane/Área de Trabalho/poo/obj/Debug/netcoreapp2.2/poo.csproj.CoreCompileInputs.cache
+/home/viviane/Área de Trabalho/poo/obj/Debug/netcoreapp2.2/poo.AssemblyInfoInputs.cache
+/home/viviane/Área de Trabalho/poo/obj/Debug/netcoreapp2.2/poo.AssemblyInfo.cs
+/home/viviane/Área de Trabalho/poo/bin/Debug/netcoreapp2.2/poo.deps.json
+/home/viviane/Área de Trabalho/poo/bin/Debug/netcoreapp2.2/poo.runtimeconfig.json
+/home/viviane/Área de Trabalho/poo/bin/Debug/netcoreapp2.2/poo.runtimeconfig.dev.json
+/home/viviane/Área de Trabalho/poo/bin/Debug/netcoreapp2.2/poo.dll
+/home/viviane/Área de Trabalho/poo/bin/Debug/netcoreapp2.2/poo.pdb
+/home/viviane/Área de Trabalho/poo/obj/Debug/netcoreapp2.2/poo.dll
+/home/viviane/Área de Trabalho/poo/obj/Debug/netcoreapp2.2/poo.pdb
